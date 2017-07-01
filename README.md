@@ -1,0 +1,2 @@
+# imgSizeControl
+resize texture images
